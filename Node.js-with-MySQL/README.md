@@ -1,0 +1,1 @@
+# Exercise about Node.js with MySQL (Create database, Create table, Insert Into, Select form)
